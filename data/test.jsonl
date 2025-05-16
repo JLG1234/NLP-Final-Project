@@ -1,0 +1,665 @@
+{"prompt": "what's the weather forecast for today", "completion": "weather_query"}
+{"prompt": "send the email to this new email address", "completion": "email_sendemail"}
+{"prompt": "hey please provide information about events by the end of the day", "completion": "calendar_query"}
+{"prompt": "schedule my meeting with mr. john hopkins tomorrow one p. m. in the afternoon after lunch", "completion": "calendar_set"}
+{"prompt": "please play some lady gaga", "completion": "play_music"}
+{"prompt": "olly play a good movie on my television", "completion": "play_radio"}
+{"prompt": "run radio program", "completion": "play_radio"}
+{"prompt": "how many times does it go", "completion": "general_quirky"}
+{"prompt": "what is the time in the midwest right now", "completion": "datetime_query"}
+{"prompt": "how many new emails do i have", "completion": "email_query"}
+{"prompt": "play random radio station", "completion": "play_radio"}
+{"prompt": "is it sunny", "completion": "weather_query"}
+{"prompt": "what happened yesterday on samurai jack", "completion": "news_query"}
+{"prompt": "i'm tired of pandora please turn on the radio", "completion": "play_radio"}
+{"prompt": "can i wear shorts today", "completion": "weather_query"}
+{"prompt": "weather report of boston", "completion": "weather_query"}
+{"prompt": "what meetings did i have last week", "completion": "calendar_query"}
+{"prompt": "turn on music by seal", "completion": "play_music"}
+{"prompt": "will the snow stop before seven am tomorrow", "completion": "weather_query"}
+{"prompt": "play the college baseball game", "completion": "play_radio"}
+{"prompt": "show me future events", "completion": "calendar_query"}
+{"prompt": "look up news articles about trump", "completion": "news_query"}
+{"prompt": "post the picture i just took on twitter", "completion": "social_post"}
+{"prompt": "search my emails with subject including work hours", "completion": "email_query"}
+{"prompt": "start new lady gaga playlist", "completion": "play_music"}
+{"prompt": "please tell me when's my financial meeting", "completion": "calendar_query"}
+{"prompt": "tell me what's happening next thursday", "completion": "calendar_query"}
+{"prompt": "any recent mails", "completion": "email_query"}
+{"prompt": "how many things do i have planned tonight", "completion": "calendar_query"}
+{"prompt": "i don't want to take any more calls after five p. m.", "completion": "general_quirky"}
+{"prompt": "play from favorites song", "completion": "play_music"}
+{"prompt": "climate details now", "completion": "weather_query"}
+{"prompt": "how can the word placid be used", "completion": "qa_definition"}
+{"prompt": "send me updates on the standing rock protest", "completion": "news_query"}
+{"prompt": "send flowers to my girl friend", "completion": "general_quirky"}
+{"prompt": "is halloween on a friday this year", "completion": "calendar_query"}
+{"prompt": "explain to me the dark matter theory and show my its applications", "completion": "general_quirky"}
+{"prompt": "what is justin bieber's birthday", "completion": "qa_factoid"}
+{"prompt": "new email", "completion": "email_query"}
+{"prompt": "where are the rocky mountains located", "completion": "qa_factoid"}
+{"prompt": "my day was stressful", "completion": "general_quirky"}
+{"prompt": "make a calendar entry for next saturday at ten am please", "completion": "calendar_set"}
+{"prompt": "how many ounces is in a quart", "completion": "qa_factoid"}
+{"prompt": "remove calendar events for this week", "completion": "calendar_remove"}
+{"prompt": "tell me about blank", "completion": "news_query"}
+{"prompt": "take birthday party off of calendar for may", "completion": "calendar_remove"}
+{"prompt": "when was albert einstein born", "completion": "qa_factoid"}
+{"prompt": "read my most recent emails", "completion": "email_query"}
+{"prompt": "play songs related to a. c. d. c.", "completion": "play_music"}
+{"prompt": "what does session mean", "completion": "qa_definition"}
+{"prompt": "what is happening today between three and four p. m.", "completion": "calendar_query"}
+{"prompt": "when is the next holiday", "completion": "datetime_query"}
+{"prompt": "are there any emails from cassie about tom", "completion": "email_query"}
+{"prompt": "did marckel replied to me on mail", "completion": "email_query"}
+{"prompt": "what is the definition of problematic", "completion": "qa_definition"}
+{"prompt": "is it second saturday on twelfth", "completion": "datetime_query"}
+{"prompt": "tell me about sean connery", "completion": "qa_factoid"}
+{"prompt": "how many eggs should i put in my cake mixture", "completion": "cooking_recipe"}
+{"prompt": "check all the new them emails and mark them star", "completion": "email_query"}
+{"prompt": "please start playing my youtube playlist", "completion": "play_music"}
+{"prompt": "clothing", "completion": "play_radio"}
+{"prompt": "save this event", "completion": "calendar_set"}
+{"prompt": "complain to amazon customer service for me", "completion": "social_post"}
+{"prompt": "i have not gotten my daily news yet can you please brief me a little bit", "completion": "news_query"}
+{"prompt": "please defined about internet", "completion": "qa_definition"}
+{"prompt": "will i need to wear a coat today in the afternoon", "completion": "weather_query"}
+{"prompt": "remind me for making call to all participants", "completion": "calendar_set"}
+{"prompt": "july three calendar", "completion": "calendar_query"}
+{"prompt": "yes i want to know latest news updates", "completion": "news_query"}
+{"prompt": "what is the plot of the most recent will smith movie", "completion": "qa_factoid"}
+{"prompt": "which is the next event coming up", "completion": "calendar_query"}
+{"prompt": "what is the distance to the moon", "completion": "qa_factoid"}
+{"prompt": "my upcoming events", "completion": "calendar_query"}
+{"prompt": "show me a forecast", "completion": "weather_query"}
+{"prompt": "how tall is mount everest", "completion": "qa_factoid"}
+{"prompt": "set an event for this sunday and the next two sundays that i have yoga at twelve p. m.", "completion": "calendar_set"}
+{"prompt": "google home", "completion": "news_query"}
+{"prompt": "do i have any events happening next week", "completion": "calendar_query"}
+{"prompt": "can you drop a beat for me", "completion": "play_music"}
+{"prompt": "is the twenty third on the weekend", "completion": "datetime_query"}
+{"prompt": "what events are happening between two four p. m. today", "completion": "calendar_query"}
+{"prompt": "olly i worked today", "completion": "general_quirky"}
+{"prompt": "show last email from mom", "completion": "email_query"}
+{"prompt": "put a record on", "completion": "play_music"}
+{"prompt": "reply to robert's email of today morning", "completion": "email_sendemail"}
+{"prompt": "tell me the meetings i have for the week", "completion": "calendar_query"}
+{"prompt": "where the party will take start", "completion": "calendar_query"}
+{"prompt": "hey post my complaint to at microsoft on twitter", "completion": "social_post"}
+{"prompt": "will the highest temperature be more than seventy degrees tomorrow", "completion": "weather_query"}
+{"prompt": "where is artic ocean", "completion": "qa_factoid"}
+{"prompt": "next thursday i need to be reminded to call the bank", "completion": "calendar_set"}
+{"prompt": "send mom an email and find out what he weather is like for the week", "completion": "email_sendemail"}
+{"prompt": "remind me to pick up more dog food at petco tomorrow at seven twenty p. m.", "completion": "calendar_set"}
+{"prompt": "where in the world is carmen san diego", "completion": "qa_factoid"}
+{"prompt": "could you please schedule a meeting with this person", "completion": "calendar_set"}
+{"prompt": "how many fridays are there in may", "completion": "datetime_query"}
+{"prompt": "politics", "completion": "general_quirky"}
+{"prompt": "what's on my calendar today", "completion": "calendar_query"}
+{"prompt": "please play justin bieber album", "completion": "play_music"}
+{"prompt": "what's the highest mountain range in the world", "completion": "qa_factoid"}
+{"prompt": "define philosophy", "completion": "qa_definition"}
+{"prompt": "what fun things are there to do in this area", "completion": "general_quirky"}
+{"prompt": "i am exhausted from work", "completion": "general_quirky"}
+{"prompt": "cricket live scorecards", "completion": "news_query"}
+{"prompt": "open pandora app", "completion": "play_radio"}
+{"prompt": "i went to the park", "completion": "general_quirky"}
+{"prompt": "please play michael jackson album", "completion": "play_music"}
+{"prompt": "iphone", "completion": "news_query"}
+{"prompt": "i am fine", "completion": "general_quirky"}
+{"prompt": "why is it snowing so much in my city", "completion": "general_quirky"}
+{"prompt": "is it currently raining in new york city", "completion": "weather_query"}
+{"prompt": "delete all events for tomorrow", "completion": "calendar_remove"}
+{"prompt": "show newest emails", "completion": "email_query"}
+{"prompt": "tell me what time it is right now", "completion": "datetime_query"}
+{"prompt": "tell me about today", "completion": "general_quirky"}
+{"prompt": "remind me to go shopping every week", "completion": "calendar_set"}
+{"prompt": "do you have feelings", "completion": "general_quirky"}
+{"prompt": "what is the meaning of ultra", "completion": "qa_definition"}
+{"prompt": "clear my day on the twenty ninth", "completion": "calendar_remove"}
+{"prompt": "show me the news", "completion": "news_query"}
+{"prompt": "how much time is a train to there", "completion": "transport_query"}
+{"prompt": "forward a complaint to simran aapa kadai about the food quality", "completion": "social_post"}
+{"prompt": "set a repeating calendar event", "completion": "calendar_set"}
+{"prompt": "death metal now", "completion": "play_music"}
+{"prompt": "send an email to sjobs at apple dot com", "completion": "email_sendemail"}
+{"prompt": "set on second january about soccer match of manchester", "completion": "calendar_set"}
+{"prompt": "is it storming right now", "completion": "weather_query"}
+{"prompt": "what is the tallest mountain in tucson", "completion": "qa_factoid"}
+{"prompt": "time", "completion": "datetime_query"}
+{"prompt": "email to matthew with content project finished send me invoice please", "completion": "email_sendemail"}
+{"prompt": "is it going to be windy tomorrow", "completion": "weather_query"}
+{"prompt": "what's the news", "completion": "news_query"}
+{"prompt": "where is the nearest river", "completion": "qa_factoid"}
+{"prompt": "will it rain on friday", "completion": "weather_query"}
+{"prompt": "set notification for six o'clock news update", "completion": "news_query"}
+{"prompt": "reply to joes email", "completion": "email_sendemail"}
+{"prompt": "what time is it in the other time zones", "completion": "datetime_query"}
+{"prompt": "how weather info", "completion": "weather_query"}
+{"prompt": "refresh this complaint", "completion": "social_post"}
+{"prompt": "what is angelina jolie's birthday", "completion": "qa_factoid"}
+{"prompt": "what will the weather be today", "completion": "weather_query"}
+{"prompt": "play the song which is in movie rangoon", "completion": "play_music"}
+{"prompt": "clean out my calendar delete everything", "completion": "calendar_remove"}
+{"prompt": "remove the doctor's appointment i added to my calendar for february twelfth at nine am", "completion": "calendar_remove"}
+{"prompt": "what is happening in the world news", "completion": "news_query"}
+{"prompt": "what day this year has the longest daylight time", "completion": "datetime_query"}
+{"prompt": "where is the closest mexican restaurant", "completion": "transport_query"}
+{"prompt": "give me the weather detail of fifteenth march", "completion": "weather_query"}
+{"prompt": "do i have a soccer game this weekend", "completion": "calendar_query"}
+{"prompt": "how to cook crabs", "completion": "cooking_recipe"}
+{"prompt": "current time in g. m. t.", "completion": "datetime_query"}
+{"prompt": "play the song i didn't hear from last month", "completion": "play_music"}
+{"prompt": "please let me know when delia replies to my email from this morning", "completion": "email_query"}
+{"prompt": "what meetings are on my calendar today", "completion": "calendar_query"}
+{"prompt": "are there any events on my calendar for this week", "completion": "calendar_query"}
+{"prompt": "open a new email to contact", "completion": "email_sendemail"}
+{"prompt": "give me the time in phoenix az", "completion": "datetime_query"}
+{"prompt": "how long does it take to get there", "completion": "transport_query"}
+{"prompt": "tune into my selected station", "completion": "play_radio"}
+{"prompt": "play funk music", "completion": "play_music"}
+{"prompt": "what will the weather be in chicago today", "completion": "weather_query"}
+{"prompt": "tell me to go to the grocery store after work", "completion": "calendar_set"}
+{"prompt": "i want meeting with person a today", "completion": "calendar_set"}
+{"prompt": "please draft an email to shaun requesting sunday's off for the next schedule", "completion": "email_sendemail"}
+{"prompt": "what is the time in hyderabad", "completion": "datetime_query"}
+{"prompt": "what is the capital of denmark", "completion": "qa_factoid"}
+{"prompt": "what is infinity", "completion": "qa_definition"}
+{"prompt": "i want to know the news form miami herald", "completion": "news_query"}
+{"prompt": "olly how do i cook a pasta", "completion": "cooking_recipe"}
+{"prompt": "what is today", "completion": "datetime_query"}
+{"prompt": "remind me when it is lunchtime", "completion": "calendar_set"}
+{"prompt": "does it fall a sunday on fifth december", "completion": "datetime_query"}
+{"prompt": "read me my calendar for the month", "completion": "calendar_query"}
+{"prompt": "please turn on ninety nine point five", "completion": "play_radio"}
+{"prompt": "hi send i love you message to my wife", "completion": "email_sendemail"}
+{"prompt": "read freds emails", "completion": "email_query"}
+{"prompt": "have i received any emails in the past two hours", "completion": "email_query"}
+{"prompt": "please mark my calendar for therapy every tuesday at eleven am", "completion": "calendar_set"}
+{"prompt": "create an email to mom and ask about this week's weather", "completion": "email_sendemail"}
+{"prompt": "weather today", "completion": "weather_query"}
+{"prompt": "put in next queue badra bahar by amit trivedi", "completion": "play_music"}
+{"prompt": "why are women so mysterious", "completion": "general_quirky"}
+{"prompt": "can i get the time", "completion": "datetime_query"}
+{"prompt": "was my afternoon meeting canceled", "completion": "calendar_query"}
+{"prompt": "what's the weather doing in grand rapids mi now", "completion": "weather_query"}
+{"prompt": "please give me the time", "completion": "datetime_query"}
+{"prompt": "please play music", "completion": "play_music"}
+{"prompt": "please add event in calendar", "completion": "calendar_set"}
+{"prompt": "tell about the latest world news", "completion": "news_query"}
+{"prompt": "play workout playlist", "completion": "play_music"}
+{"prompt": "weather", "completion": "weather_query"}
+{"prompt": "create an email to my brother asking him what time he will be over for dinner", "completion": "email_sendemail"}
+{"prompt": "what trains are available", "completion": "transport_query"}
+{"prompt": "do i need to wear some warm clothes today", "completion": "weather_query"}
+{"prompt": "play a party music list", "completion": "play_music"}
+{"prompt": "what day is the fifteenth", "completion": "datetime_query"}
+{"prompt": "put this on my facebook", "completion": "social_post"}
+{"prompt": "place of train times", "completion": "transport_query"}
+{"prompt": "is today's date the ninth", "completion": "datetime_query"}
+{"prompt": "olly today was the best day of my life", "completion": "general_quirky"}
+{"prompt": "how high is pikes peak", "completion": "qa_factoid"}
+{"prompt": "what is the best tasting cut of beef", "completion": "cooking_recipe"}
+{"prompt": "do i have email from my work", "completion": "email_query"}
+{"prompt": "could you delete all my appointments on calendar", "completion": "calendar_remove"}
+{"prompt": "what day of the week is the twenty fifth", "completion": "datetime_query"}
+{"prompt": "siri what's happened in the news today", "completion": "news_query"}
+{"prompt": "delete this event on march three", "completion": "calendar_remove"}
+{"prompt": "what are the train times to chicago for today", "completion": "transport_query"}
+{"prompt": "how high is the quality of this stone", "completion": "general_quirky"}
+{"prompt": "i want to listen to nine hundred and forty one please", "completion": "play_radio"}
+{"prompt": "open radia", "completion": "play_radio"}
+{"prompt": "check any email if i got from rohan", "completion": "email_query"}
+{"prompt": "what do i have planned next monday from noon to three", "completion": "calendar_query"}
+{"prompt": "when is the next lakers game", "completion": "qa_factoid"}
+{"prompt": "do i have any new email from ryan", "completion": "email_query"}
+{"prompt": "what's going on in the news", "completion": "news_query"}
+{"prompt": "what time is my project meeting at", "completion": "calendar_query"}
+{"prompt": "are there any events schedule for this week", "completion": "calendar_query"}
+{"prompt": "set a new event", "completion": "calendar_set"}
+{"prompt": "google who was the last president who didn't own a dog", "completion": "qa_factoid"}
+{"prompt": "when is bank holiday", "completion": "calendar_query"}
+{"prompt": "put reminder to call pawel tomorrow", "completion": "calendar_set"}
+{"prompt": "you'll never guess what happened earlier today", "completion": "general_quirky"}
+{"prompt": "delete marriage july three", "completion": "calendar_remove"}
+{"prompt": "olly give me the most recent stuff you have angelina jolie", "completion": "general_quirky"}
+{"prompt": "define ten", "completion": "qa_definition"}
+{"prompt": "will punjab mail reach on time in gwalior", "completion": "transport_query"}
+{"prompt": "where is south asia located", "completion": "qa_factoid"}
+{"prompt": "read me the latest headlines from nytimescom", "completion": "news_query"}
+{"prompt": "life", "completion": "general_quirky"}
+{"prompt": "remind me about thing at time", "completion": "calendar_set"}
+{"prompt": "please organize a meeting with my company workers", "completion": "calendar_set"}
+{"prompt": "find dinner with mom on my calendar and delete it", "completion": "calendar_remove"}
+{"prompt": "notification regarding the new government policies", "completion": "news_query"}
+{"prompt": "is april fifteenth on a weekend", "completion": "datetime_query"}
+{"prompt": "are there any emails unread by this person", "completion": "email_query"}
+{"prompt": "i would like to know my next schedule details", "completion": "calendar_query"}
+{"prompt": "what about ashwin", "completion": "qa_factoid"}
+{"prompt": "will there be sunset at five thirty p. m. tomorrow", "completion": "weather_query"}
+{"prompt": "let me hear some pop music or a song", "completion": "play_music"}
+{"prompt": "how's the weather going to be this week", "completion": "weather_query"}
+{"prompt": "olly send an email to james asking when he is getting off of work", "completion": "email_sendemail"}
+{"prompt": "open hershey twitter", "completion": "social_post"}
+{"prompt": "put the radio on and play radio two", "completion": "play_radio"}
+{"prompt": "is fish and chips really british", "completion": "cooking_recipe"}
+{"prompt": "send that email to james please", "completion": "email_sendemail"}
+{"prompt": "can you search for me", "completion": "general_quirky"}
+{"prompt": "my friend emails me to check", "completion": "email_query"}
+{"prompt": "please write to this email", "completion": "email_sendemail"}
+{"prompt": "open email", "completion": "email_query"}
+{"prompt": "has the celebrity does any charitable work", "completion": "general_quirky"}
+{"prompt": "play born to run from where i stopped", "completion": "play_music"}
+{"prompt": "i need to know current weather in new york city", "completion": "weather_query"}
+{"prompt": "initiate the music on the electronic playlist", "completion": "play_music"}
+{"prompt": "name the capital of nigeria", "completion": "qa_factoid"}
+{"prompt": "remind me of my dentist appointment the night before", "completion": "calendar_set"}
+{"prompt": "can you tell me what an chaise is", "completion": "qa_definition"}
+{"prompt": "play my shazaam playlist on the spotify app", "completion": "play_music"}
+{"prompt": "what is the temperature outside", "completion": "weather_query"}
+{"prompt": "do i have anything scheduled tomorrow from noon to three p. m.", "completion": "calendar_query"}
+{"prompt": "would you please turn on the am radio", "completion": "play_radio"}
+{"prompt": "set a notification about my meeting next tuesday", "completion": "calendar_set"}
+{"prompt": "my daughter's anniversary is thursday send me a reminder", "completion": "calendar_set"}
+{"prompt": "avinash go with me on fifth april movie commando", "completion": "calendar_set"}
+{"prompt": "today i had a lunch with my long-time sweetheart play me a nice song to the mood", "completion": "general_quirky"}
+{"prompt": "i would like to hear rush limbaugh on i heart radio", "completion": "play_radio"}
+{"prompt": "start playing bag of hammers", "completion": "play_music"}
+{"prompt": "remove the event from monday", "completion": "calendar_remove"}
+{"prompt": "please play jazz music", "completion": "play_music"}
+{"prompt": "is black sea real", "completion": "qa_factoid"}
+{"prompt": "play radio", "completion": "play_radio"}
+{"prompt": "is yellowstone park the largest park", "completion": "qa_factoid"}
+{"prompt": "do i have any emails from jo", "completion": "email_query"}
+{"prompt": "i want five hours freed up for jenn's birthday this saturday", "completion": "calendar_set"}
+{"prompt": "home town weather", "completion": "weather_query"}
+{"prompt": "hey turn on your reminders for tomorrow's meeting at ten am", "completion": "calendar_set"}
+{"prompt": "play my favorite music right now", "completion": "play_music"}
+{"prompt": "i want to check julia's available dates so would you send her mail and ask about it", "completion": "email_sendemail"}
+{"prompt": "give me the detailed schedule for next week", "completion": "calendar_query"}
+{"prompt": "send email to my brother", "completion": "email_sendemail"}
+{"prompt": "send reply to joe", "completion": "email_sendemail"}
+{"prompt": "what is the chance of rain today", "completion": "weather_query"}
+{"prompt": "how many degrees is it in houston right now", "completion": "weather_query"}
+{"prompt": "how old is george clooney", "completion": "qa_factoid"}
+{"prompt": "how do you describe a capabara", "completion": "qa_definition"}
+{"prompt": "evaporated", "completion": "cooking_recipe"}
+{"prompt": "show me some news from b. b. c.", "completion": "news_query"}
+{"prompt": "what events are scheduled for me to do today", "completion": "calendar_query"}
+{"prompt": "tell me what's going on tomorrow", "completion": "calendar_query"}
+{"prompt": "what is latest news about donald trump tell me about controversial statements of donald trump", "completion": "news_query"}
+{"prompt": "set an event", "completion": "calendar_set"}
+{"prompt": "can you reserve a ticket to grand rapids by train", "completion": "transport_query"}
+{"prompt": "do i need to wear boots", "completion": "weather_query"}
+{"prompt": "tweet consumer service", "completion": "social_post"}
+{"prompt": "what is the departure time for the next train leaving new york city", "completion": "transport_query"}
+{"prompt": "go to the event month and delete", "completion": "calendar_remove"}
+{"prompt": "healthy foods", "completion": "cooking_recipe"}
+{"prompt": "play a rap song", "completion": "play_music"}
+{"prompt": "tweet a customer complaint on the service at the long horn steak house alexa", "completion": "social_post"}
+{"prompt": "please check whether the email of jancy has come", "completion": "email_query"}
+{"prompt": "next train to d. c.", "completion": "transport_query"}
+{"prompt": "hi do i have any new emails", "completion": "email_query"}
+{"prompt": "create new event on calendar john's birthday", "completion": "calendar_set"}
+{"prompt": "post a message to facebook", "completion": "social_post"}
+{"prompt": "i need an email to be sent to sdfa at hotmail dot com", "completion": "email_sendemail"}
+{"prompt": "tell me what is currently trending", "completion": "news_query"}
+{"prompt": "how would you describe the sun", "completion": "qa_definition"}
+{"prompt": "new york time please", "completion": "datetime_query"}
+{"prompt": "current time", "completion": "datetime_query"}
+{"prompt": "google i need to answer that last email", "completion": "email_sendemail"}
+{"prompt": "manage facebook status", "completion": "social_post"}
+{"prompt": "change the plan of meeting", "completion": "calendar_remove"}
+{"prompt": "about reality in world", "completion": "general_quirky"}
+{"prompt": "what time does the train departs lagos", "completion": "transport_query"}
+{"prompt": "when does the train leave for chicago from ann arbor", "completion": "transport_query"}
+{"prompt": "what is the purpose of life", "completion": "general_quirky"}
+{"prompt": "remind me of meeting time at seven p. m. next monday", "completion": "calendar_set"}
+{"prompt": "play some pop music", "completion": "play_music"}
+{"prompt": "report the concert lineup with start times", "completion": "calendar_query"}
+{"prompt": "send email new address", "completion": "email_sendemail"}
+{"prompt": "i want to hear the songs of adele", "completion": "play_music"}
+{"prompt": "how do i get from my house to the target along i forty", "completion": "transport_query"}
+{"prompt": "please give me my emails", "completion": "email_query"}
+{"prompt": "describe the empire state building", "completion": "qa_definition"}
+{"prompt": "turn on the radio on this channel", "completion": "play_radio"}
+{"prompt": "olly what are the most recent headlines on c. n. n.", "completion": "news_query"}
+{"prompt": "get info", "completion": "qa_factoid"}
+{"prompt": "tell me quotes that have to do with love", "completion": "general_quirky"}
+{"prompt": "create email to john start body i am interested in seeing the car you have for sale can we schedule a time to meet send", "completion": "email_sendemail"}
+{"prompt": "please switch the channel to classic f. m.", "completion": "play_radio"}
+{"prompt": "can you put on the next i heart music radio show", "completion": "play_radio"}
+{"prompt": "please add the meeting with ms. boland on wednesday eight hundred am to my calendar", "completion": "calendar_set"}
+{"prompt": "send a notification to friend", "completion": "calendar_set"}
+{"prompt": "send a consumer service complaint", "completion": "social_post"}
+{"prompt": "jane doe", "completion": "email_query"}
+{"prompt": "is there any event today in my calendar", "completion": "calendar_query"}
+{"prompt": "is the weather supposed to be nice today", "completion": "weather_query"}
+{"prompt": "what's kim kardashian's measurements", "completion": "qa_factoid"}
+{"prompt": "put summer lovin in third position in my queue", "completion": "play_music"}
+{"prompt": "pull up a complaint for a. o. l.", "completion": "social_post"}
+{"prompt": "what is the circumference of the earth", "completion": "qa_factoid"}
+{"prompt": "who is coming to the meeting tomorrow at ten am", "completion": "calendar_query"}
+{"prompt": "give me the description about television", "completion": "qa_definition"}
+{"prompt": "what is hair made up of", "completion": "qa_factoid"}
+{"prompt": "earth info", "completion": "qa_factoid"}
+{"prompt": "what is the population of florida", "completion": "qa_factoid"}
+{"prompt": "what time will i arrive home if i take this train", "completion": "transport_query"}
+{"prompt": "tweet a complaint to aldi consumer service", "completion": "social_post"}
+{"prompt": "tweet the service at moe's diner is terrible", "completion": "social_post"}
+{"prompt": "what does the hyphen represent in the equation", "completion": "general_quirky"}
+{"prompt": "my this song for me", "completion": "play_music"}
+{"prompt": "what's in the news today", "completion": "news_query"}
+{"prompt": "is it going to rain this week", "completion": "weather_query"}
+{"prompt": "play forty six and two by tool", "completion": "play_music"}
+{"prompt": "remind me two days before", "completion": "calendar_set"}
+{"prompt": "show me what i can do with fitness", "completion": "general_quirky"}
+{"prompt": "what is the news in my area", "completion": "news_query"}
+{"prompt": "play jazz", "completion": "play_music"}
+{"prompt": "alarm if any new reply from the boss", "completion": "email_query"}
+{"prompt": "what's the highest mountain in italy", "completion": "qa_factoid"}
+{"prompt": "look up someone", "completion": "qa_factoid"}
+{"prompt": "define capricious", "completion": "qa_definition"}
+{"prompt": "show me my emails from the past hour", "completion": "email_query"}
+{"prompt": "describe death", "completion": "qa_definition"}
+{"prompt": "find brad pitt's age", "completion": "qa_factoid"}
+{"prompt": "can i get a recap on the latest news going on in the world", "completion": "news_query"}
+{"prompt": "send an email to stan francis", "completion": "email_sendemail"}
+{"prompt": "remove calendar events", "completion": "calendar_remove"}
+{"prompt": "how old is jennifer garner", "completion": "qa_factoid"}
+{"prompt": "delete the next event in the calendar", "completion": "calendar_remove"}
+{"prompt": "put on a song by celine dion", "completion": "play_music"}
+{"prompt": "what day of the week is valentines on", "completion": "datetime_query"}
+{"prompt": "see my inbox for mail i received from sarah", "completion": "email_query"}
+{"prompt": "send email to mommy that i'll be going the party", "completion": "email_sendemail"}
+{"prompt": "play the fifty songs i listen to most often", "completion": "play_music"}
+{"prompt": "please play all the songs in high volume and make adjustments to pop music mode", "completion": "play_music"}
+{"prompt": "what's on for this week", "completion": "calendar_query"}
+{"prompt": "what are the details of this event", "completion": "calendar_query"}
+{"prompt": "olly can you remind me about the gym class in two hours", "completion": "calendar_set"}
+{"prompt": "hey i want to know about your inception", "completion": "general_quirky"}
+{"prompt": "start playing music", "completion": "play_music"}
+{"prompt": "write this message to the coworker group", "completion": "email_sendemail"}
+{"prompt": "be my clock", "completion": "datetime_query"}
+{"prompt": "delete the next wedding event", "completion": "calendar_remove"}
+{"prompt": "how many grams are there for a cup of butter", "completion": "qa_factoid"}
+{"prompt": "i would like to hear heathens by twenty one pilots", "completion": "play_music"}
+{"prompt": "please reschedule the meeting to six p. m. tomorrow and inform members", "completion": "calendar_set"}
+{"prompt": "remove all events from my calendar", "completion": "calendar_remove"}
+{"prompt": "show todays news about migration", "completion": "news_query"}
+{"prompt": "can you open beatles", "completion": "play_music"}
+{"prompt": "show me politics news from today", "completion": "news_query"}
+{"prompt": "unread emails", "completion": "email_query"}
+{"prompt": "please list the senders of received emails from the last three days", "completion": "email_query"}
+{"prompt": "how is the climate today", "completion": "weather_query"}
+{"prompt": "attitude", "completion": "calendar_set"}
+{"prompt": "tell me keywords about usain bolt", "completion": "qa_factoid"}
+{"prompt": "my son was born today", "completion": "general_quirky"}
+{"prompt": "play irene from tobymac", "completion": "play_music"}
+{"prompt": "who played harry potter in the films", "completion": "qa_factoid"}
+{"prompt": "hey what time does the next train depart", "completion": "transport_query"}
+{"prompt": "please tune in to nine hundred and seventy five f. m.", "completion": "play_radio"}
+{"prompt": "play jazz music now", "completion": "play_music"}
+{"prompt": "what are you", "completion": "general_quirky"}
+{"prompt": "current date time", "completion": "datetime_query"}
+{"prompt": "let's email sandy", "completion": "email_sendemail"}
+{"prompt": "what's the current weather in new jersey", "completion": "weather_query"}
+{"prompt": "play some tunes for me", "completion": "play_music"}
+{"prompt": "turn on the radio for me", "completion": "play_radio"}
+{"prompt": "complain to the d. m. v. office about the excessively long line", "completion": "social_post"}
+{"prompt": "what does my schedule look like after three p. m. today afternoon", "completion": "calendar_query"}
+{"prompt": "olly what's next", "completion": "general_quirky"}
+{"prompt": "latest iphone", "completion": "qa_definition"}
+{"prompt": "when was einstein's birthday", "completion": "qa_factoid"}
+{"prompt": "director who direct an act", "completion": "qa_definition"}
+{"prompt": "where do cows come from", "completion": "qa_factoid"}
+{"prompt": "can you tell me how gravity works", "completion": "general_quirky"}
+{"prompt": "there is an email i need you to send my friend", "completion": "email_sendemail"}
+{"prompt": "play country music", "completion": "play_music"}
+{"prompt": "write an email about next week weather to my wife", "completion": "email_sendemail"}
+{"prompt": "where is pategonia", "completion": "qa_factoid"}
+{"prompt": "remove calendar events", "completion": "calendar_remove"}
+{"prompt": "i have a meeting tomorrow at two p. m. with john put that in my calendar", "completion": "calendar_set"}
+{"prompt": "tell me all the pending reminders", "completion": "calendar_query"}
+{"prompt": "how to best prepare a salmon or haddock", "completion": "cooking_recipe"}
+{"prompt": "hey olly play me a popular hip hop song", "completion": "play_music"}
+{"prompt": "how old is madonna", "completion": "qa_factoid"}
+{"prompt": "what kind of cloth eastern people wear", "completion": "qa_factoid"}
+{"prompt": "how to make chicken tikka", "completion": "cooking_recipe"}
+{"prompt": "how to cook that meal", "completion": "cooking_recipe"}
+{"prompt": "how much is a train ticket to denver from here", "completion": "transport_query"}
+{"prompt": "please post so bored to facebook", "completion": "social_post"}
+{"prompt": "did i get an email from sarah", "completion": "email_query"}
+{"prompt": "give me the birth details of abraham lincoln", "completion": "qa_factoid"}
+{"prompt": "i want to hear the radio turn it on please", "completion": "play_radio"}
+{"prompt": "train times for tomorrow", "completion": "transport_query"}
+{"prompt": "olly what's the weather right now", "completion": "weather_query"}
+{"prompt": "do i need a coat today", "completion": "weather_query"}
+{"prompt": "what do i need to make pot roast", "completion": "cooking_recipe"}
+{"prompt": "please play c. n. n.", "completion": "play_music"}
+{"prompt": "keanu reeves date of birth", "completion": "qa_factoid"}
+{"prompt": "does spain share its border with morrocco", "completion": "qa_factoid"}
+{"prompt": "what will the date be next wednesday", "completion": "datetime_query"}
+{"prompt": "please cook me a hamburger", "completion": "cooking_recipe"}
+{"prompt": "remove meeting at dubai", "completion": "calendar_remove"}
+{"prompt": "add dinner plans to my calendar", "completion": "calendar_set"}
+{"prompt": "write a tweet of complaint about my t. v. to samsung", "completion": "social_post"}
+{"prompt": "how many kids jackie chan does have", "completion": "qa_factoid"}
+{"prompt": "what's up today", "completion": "calendar_query"}
+{"prompt": "please remove all the entries marked in the calendar", "completion": "calendar_remove"}
+{"prompt": "what color is the sky", "completion": "qa_factoid"}
+{"prompt": "latest news from jersey", "completion": "news_query"}
+{"prompt": "find map", "completion": "qa_factoid"}
+{"prompt": "what is on the agenda for today", "completion": "calendar_query"}
+{"prompt": "has dad sent any emails recently", "completion": "email_query"}
+{"prompt": "what spices are in indian food", "completion": "cooking_recipe"}
+{"prompt": "delete all events from calendar", "completion": "calendar_remove"}
+{"prompt": "how many minutes pass four p. m.", "completion": "datetime_query"}
+{"prompt": "please remind me to take off coffee off stove in ten minutes", "completion": "calendar_set"}
+{"prompt": "please brief me about this week's weather", "completion": "weather_query"}
+{"prompt": "what are the latest updates with regard to trump's ties to russia", "completion": "news_query"}
+{"prompt": "tell me the weather for new york city", "completion": "weather_query"}
+{"prompt": "reply to john stating that i will attend the party", "completion": "email_sendemail"}
+{"prompt": "did i set reminder for tomorrow meeting at five p. m.", "completion": "calendar_query"}
+{"prompt": "can you read my meetings today", "completion": "calendar_query"}
+{"prompt": "put on a playlist of danish music", "completion": "play_music"}
+{"prompt": "tweet a complaint to comcast", "completion": "social_post"}
+{"prompt": "check all new emails in my inbox", "completion": "email_query"}
+{"prompt": "i need to reply to this email", "completion": "email_sendemail"}
+{"prompt": "set notification for meeting with boss", "completion": "calendar_set"}
+{"prompt": "what are the top twenty jazz hits", "completion": "play_music"}
+{"prompt": "go to map", "completion": "transport_query"}
+{"prompt": "what movies has clancy brown played in", "completion": "qa_factoid"}
+{"prompt": "what went on in the world today", "completion": "news_query"}
+{"prompt": "time time is the holiday party at the office", "completion": "calendar_query"}
+{"prompt": "show me more about the presidential election", "completion": "news_query"}
+{"prompt": "what time is it in florida", "completion": "datetime_query"}
+{"prompt": "how about the latest news", "completion": "news_query"}
+{"prompt": "which day is march twenty", "completion": "datetime_query"}
+{"prompt": "has the budget been voted on yet", "completion": "news_query"}
+{"prompt": "tell me about the latest media trends", "completion": "general_quirky"}
+{"prompt": "describe the statue of liberty", "completion": "qa_definition"}
+{"prompt": "follow trump campaign news feed", "completion": "news_query"}
+{"prompt": "play alex jones in radio", "completion": "play_radio"}
+{"prompt": "format the calendar", "completion": "calendar_remove"}
+{"prompt": "do i have any appointments this weekend", "completion": "calendar_query"}
+{"prompt": "please start the playlist huey lewis and the news", "completion": "play_music"}
+{"prompt": "please note today a terrible things happened to me because my friend behaved rudely on me", "completion": "general_quirky"}
+{"prompt": "play hopsin from my latest playlist", "completion": "play_music"}
+{"prompt": "play that song next", "completion": "play_music"}
+{"prompt": "do i have email from my friend rachel", "completion": "email_query"}
+{"prompt": "what would be something fun to do today", "completion": "general_quirky"}
+{"prompt": "i want to listen classical music", "completion": "play_music"}
+{"prompt": "delete all of my appointments with doctor smith this week", "completion": "calendar_remove"}
+{"prompt": "update my status", "completion": "social_post"}
+{"prompt": "write a tweet telling macy's that they should be shutting down instead of jcpenney", "completion": "social_post"}
+{"prompt": "is it a yes or a no that tomorrows temperature will be hot", "completion": "weather_query"}
+{"prompt": "can you delete this dinner party event", "completion": "calendar_remove"}
+{"prompt": "add work to my calendar for every friday", "completion": "calendar_set"}
+{"prompt": "tell me the news about the current scenario in chennai", "completion": "news_query"}
+{"prompt": "send help only to jane", "completion": "email_sendemail"}
+{"prompt": "tune best topic", "completion": "play_radio"}
+{"prompt": "please give me update of football", "completion": "news_query"}
+{"prompt": "please tweet that my diapers are falling apart to pampers", "completion": "social_post"}
+{"prompt": "set reminder for tennis game with peter on sunday at four p. m.", "completion": "calendar_set"}
+{"prompt": "could you please create a new event on my calendar", "completion": "calendar_set"}
+{"prompt": "olly clear all events in calendar", "completion": "calendar_remove"}
+{"prompt": "play jingle bells next", "completion": "play_music"}
+{"prompt": "find out more about the annual tea party", "completion": "calendar_query"}
+{"prompt": "place a birthday party with ale ross and amy in my calendar", "completion": "calendar_set"}
+{"prompt": "how can i learn cooking", "completion": "cooking_recipe"}
+{"prompt": "time to workout", "completion": "play_music"}
+{"prompt": "set notification before this event", "completion": "calendar_set"}
+{"prompt": "add payday to my calendar for every other thursday", "completion": "calendar_set"}
+{"prompt": "how far does my dollar go in japan", "completion": "qa_factoid"}
+{"prompt": "tell me about the weather this week", "completion": "weather_query"}
+{"prompt": "tweet about what can be done for it", "completion": "social_post"}
+{"prompt": "did snap become public yet", "completion": "news_query"}
+{"prompt": "tell me today's weather report of city alabama", "completion": "weather_query"}
+{"prompt": "hello hello", "completion": "play_radio"}
+{"prompt": "add to my reminders to watch new movie today at nine p. m.", "completion": "calendar_set"}
+{"prompt": "write a complaint to best buy", "completion": "social_post"}
+{"prompt": "what are my reminders for this month", "completion": "calendar_query"}
+{"prompt": "play latest country music releases", "completion": "play_music"}
+{"prompt": "remind me clock that i have a event", "completion": "calendar_set"}
+{"prompt": "can you put sunday hockey class in my calendar as recurrent event", "completion": "calendar_set"}
+{"prompt": "when does the train leave penn station", "completion": "transport_query"}
+{"prompt": "play do re mi", "completion": "play_music"}
+{"prompt": "what are the reminder i had set for tomorrow", "completion": "calendar_query"}
+{"prompt": "give directions to pizza hut", "completion": "transport_query"}
+{"prompt": "latest t. v. show news", "completion": "news_query"}
+{"prompt": "define perpetual", "completion": "qa_definition"}
+{"prompt": "how does she do her makeup", "completion": "general_quirky"}
+{"prompt": "what are the latest news", "completion": "news_query"}
+{"prompt": "i need to know events scheduled for the weekend", "completion": "calendar_query"}
+{"prompt": "what is my astrology report for today", "completion": "general_quirky"}
+{"prompt": "is it sunny outside", "completion": "weather_query"}
+{"prompt": "tweet this sick today", "completion": "social_post"}
+{"prompt": "is the weather cloudy tonight", "completion": "weather_query"}
+{"prompt": "what is tomorrow's weather predictions", "completion": "weather_query"}
+{"prompt": "in five sentences let me know the procedure of making thanksgiving turkey", "completion": "cooking_recipe"}
+{"prompt": "list emails for last hour", "completion": "email_query"}
+{"prompt": "tweet my complaint to at n.s.a.", "completion": "social_post"}
+{"prompt": "tune in some radio", "completion": "play_radio"}
+{"prompt": "i am in bad mood tell me a joke", "completion": "general_quirky"}
+{"prompt": "please delete all appointments for today", "completion": "calendar_remove"}
+{"prompt": "what is the address for the event scheduled on the first of january alexa", "completion": "calendar_query"}
+{"prompt": "reply my address to john", "completion": "email_sendemail"}
+{"prompt": "send a tweet about my complaint on my truck to consumer digest", "completion": "social_post"}
+{"prompt": "give me the top rated movie in my area", "completion": "general_quirky"}
+{"prompt": "is the temperature going to be above fifty tomorrow", "completion": "weather_query"}
+{"prompt": "do i need to bring a coat out tonight", "completion": "weather_query"}
+{"prompt": "play music from where you left off", "completion": "play_music"}
+{"prompt": "listen to sports talk", "completion": "play_radio"}
+{"prompt": "remind me of dinner with mom tonight on my calendar", "completion": "calendar_set"}
+{"prompt": "i will no longer be joining mom for lunch tomorrow", "completion": "calendar_remove"}
+{"prompt": "cancels lunch at the restaurant booked for march twenty five", "completion": "calendar_remove"}
+{"prompt": "play radio ninety five point five", "completion": "play_radio"}
+{"prompt": "what is the most recent update regarding the hurricane katrina", "completion": "news_query"}
+{"prompt": "please tell me how long do you think trump will last", "completion": "general_quirky"}
+{"prompt": "search news about a celebrity", "completion": "news_query"}
+{"prompt": "hey google email to caroline how are you can you send me updates on last project cheers tomasz", "completion": "email_sendemail"}
+{"prompt": "select and play only christian rock from one thousand nine hundred and ninety upwards", "completion": "play_music"}
+{"prompt": "please describe this sunset for me", "completion": "qa_definition"}
+{"prompt": "turn on bob and tom", "completion": "play_radio"}
+{"prompt": "when monet's exhibition takes place", "completion": "calendar_query"}
+{"prompt": "what's the definition of indignation", "completion": "qa_definition"}
+{"prompt": "remind me every year on this date of", "completion": "calendar_set"}
+{"prompt": "can you give me a flash briefing", "completion": "news_query"}
+{"prompt": "i am bored", "completion": "general_quirky"}
+{"prompt": "what makes something head cheese", "completion": "qa_definition"}
+{"prompt": "learn to cut potatoes correctly", "completion": "cooking_recipe"}
+{"prompt": "meeting with joe next week tuesday", "completion": "calendar_set"}
+{"prompt": "how is the weather in utah right now", "completion": "weather_query"}
+{"prompt": "get me new mail", "completion": "email_query"}
+{"prompt": "what's the temperature out now", "completion": "weather_query"}
+{"prompt": "delete event calendar", "completion": "calendar_remove"}
+{"prompt": "spelling", "completion": "general_quirky"}
+{"prompt": "good", "completion": "calendar_query"}
+{"prompt": "what's the temperature today", "completion": "weather_query"}
+{"prompt": "add eva's birthday party at roller jam for twelve thirty p. m. on may seventh", "completion": "calendar_set"}
+{"prompt": "what day will it be sunny", "completion": "weather_query"}
+{"prompt": "get me fresh news", "completion": "news_query"}
+{"prompt": "what are the probability that it will rain today", "completion": "weather_query"}
+{"prompt": "what was the last movie that brad pitt starred in", "completion": "qa_factoid"}
+{"prompt": "new reminder at three p. m.", "completion": "calendar_set"}
+{"prompt": "please set an event at ten am one month and two days from now to have a garage sale at my house", "completion": "calendar_set"}
+{"prompt": "play old classic music", "completion": "play_music"}
+{"prompt": "evening", "completion": "weather_query"}
+{"prompt": "have i received any emails from beth", "completion": "email_query"}
+{"prompt": "do i need to carry sunglasses outside", "completion": "weather_query"}
+{"prompt": "what are the specifications for the new iphone", "completion": "general_quirky"}
+{"prompt": "what time is it in england", "completion": "datetime_query"}
+{"prompt": "what is the time in new york now", "completion": "datetime_query"}
+{"prompt": "change my plan erase my next event", "completion": "calendar_remove"}
+{"prompt": "give me tomorrow's weather update", "completion": "weather_query"}
+{"prompt": "what is the highest mountain in asia", "completion": "qa_factoid"}
+{"prompt": "please subscribe me to updates about us breaking news", "completion": "news_query"}
+{"prompt": "what's happening today", "completion": "news_query"}
+{"prompt": "remind me about the meeting tomorrow at two p. m.", "completion": "calendar_set"}
+{"prompt": "tell me about the most recent road construction on route seventy", "completion": "news_query"}
+{"prompt": "what is on that date", "completion": "calendar_query"}
+{"prompt": "people canceling iowa vacations over congressman's words", "completion": "news_query"}
+{"prompt": "i went shopping today and bought a massive dildo", "completion": "general_quirky"}
+{"prompt": "when am i busy this month", "completion": "general_quirky"}
+{"prompt": "can you show me the last breaking news form wsj", "completion": "news_query"}
+{"prompt": "tell me how to cook steak", "completion": "cooking_recipe"}
+{"prompt": "olly today was a tiring day", "completion": "general_quirky"}
+{"prompt": "i want to hear my favorite song from iron maiden", "completion": "play_music"}
+{"prompt": "what's the time now", "completion": "datetime_query"}
+{"prompt": "turn on some rap music", "completion": "play_music"}
+{"prompt": "search word synonym", "completion": "qa_definition"}
+{"prompt": "what is mondays actual date", "completion": "datetime_query"}
+{"prompt": "in the past two hours have i gotten any new emails", "completion": "email_query"}
+{"prompt": "do i have any thing going on at five", "completion": "calendar_query"}
+{"prompt": "can you please tell me the time", "completion": "datetime_query"}
+{"prompt": "i would like to know if in math operations is calculated before the addition subtraction multiply or division", "completion": "general_quirky"}
+{"prompt": "any new mail from jack", "completion": "email_query"}
+{"prompt": "my calendar is to be updated with all rccg march event", "completion": "calendar_set"}
+{"prompt": "what's the weather report for bangalore today", "completion": "weather_query"}
+{"prompt": "did dan send me any emails", "completion": "email_query"}
+{"prompt": "has any mail received with an attachment", "completion": "email_query"}
+{"prompt": "whether it would be sunny in califonia", "completion": "weather_query"}
+{"prompt": "what is a trebuchet", "completion": "qa_definition"}
+{"prompt": "appointments this wednesday", "completion": "calendar_query"}
+{"prompt": "any email from my client", "completion": "email_query"}
+{"prompt": "this fact sheet provides considerations for how to set up your food processing business", "completion": "cooking_recipe"}
+{"prompt": "remove next meeting today in my calendar", "completion": "calendar_remove"}
+{"prompt": "definition and use in sentence the word absolute", "completion": "qa_definition"}
+{"prompt": "what's the current time in new york", "completion": "datetime_query"}
+{"prompt": "read information about calendar event on march nineteenth at two p. m.", "completion": "calendar_query"}
+{"prompt": "please mark the date first of february twenty seventeen and set the reminder at five p. m. to make an appointment with mr. richard", "completion": "calendar_set"}
+{"prompt": "tell me about the meeting this week", "completion": "calendar_query"}
+{"prompt": "tell me a random trivia", "completion": "general_quirky"}
+{"prompt": "for the next month how many meeting days available do i have that are convenient for me", "completion": "calendar_query"}
+{"prompt": "draw", "completion": "general_quirky"}
+{"prompt": "what is the highest mountain in the us", "completion": "qa_factoid"}
+{"prompt": "how can i make your day a little better", "completion": "general_quirky"}
+{"prompt": "olly send email to family member and read it first", "completion": "email_sendemail"}
+{"prompt": "weather news", "completion": "weather_query"}
+{"prompt": "what's on the new york time", "completion": "news_query"}
+{"prompt": "i want to know the procedure of making thanksgiving turkey in five sentences", "completion": "cooking_recipe"}
+{"prompt": "who is lenin", "completion": "qa_factoid"}
+{"prompt": "is it hot or cold outside", "completion": "weather_query"}
+{"prompt": "what is the definition of mutual", "completion": "qa_definition"}
+{"prompt": "who is the top of the music chart for two thousand and seventeen", "completion": "general_quirky"}
+{"prompt": "give me instructions on how to cook chicken", "completion": "cooking_recipe"}
+{"prompt": "i want to know if i have any emails with the subject line budget from eddie richards", "completion": "email_query"}
+{"prompt": "create a new event on my calendar", "completion": "calendar_set"}
+{"prompt": "olly i need to remember to get to the shops before they close", "completion": "calendar_set"}
+{"prompt": "i was late today for the meeting you would not believe what happened", "completion": "general_quirky"}
+{"prompt": "post pic on my phone on facebook", "completion": "social_post"}
+{"prompt": "is it worth driving ten miles from here to save money on gas", "completion": "general_quirky"}
+{"prompt": "was einstein married", "completion": "qa_factoid"}
+{"prompt": "please respond", "completion": "email_sendemail"}
+{"prompt": "set a reminder for dinner at six p. m. on wednesday at bonefish grill", "completion": "calendar_set"}
+{"prompt": "please send an email to toms principal in regards to the meeting we have tomorrow", "completion": "email_sendemail"}
+{"prompt": "open the local news app", "completion": "news_query"}
+{"prompt": "you need to give me different directions", "completion": "transport_query"}
+{"prompt": "what is the amount for train ticket booking", "completion": "transport_query"}
+{"prompt": "reply to all emails received between ten p. m. and seven am everyday", "completion": "email_sendemail"}
+{"prompt": "do i need to take an umbrella today", "completion": "weather_query"}
+{"prompt": "what are all the upcoming events", "completion": "calendar_query"}
+{"prompt": "let's listen to a playlist", "completion": "play_music"}
+{"prompt": "hey i just lost my wallet today", "completion": "general_quirky"}
+{"prompt": "what is the story of the movie titanic", "completion": "general_quirky"}
