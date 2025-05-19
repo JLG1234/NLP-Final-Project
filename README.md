@@ -44,7 +44,6 @@ This project demonstrates how a LoRA-tuned, instruction-following language model
 │   └── test.jsonl
 ├── adapters/                 # Folder for LoRA adapter checkpoints (created after training)
 ├── results_/                 # Visualizations (PCA plots, dendrograms, etc.)
-└── ... (other files)
 ```
 
 ---
@@ -61,7 +60,7 @@ This project demonstrates how a LoRA-tuned, instruction-following language model
   * `matplotlib`
   * `sentence-transformers`
   * `huggingface_hub` (for downloading model)
-  * `mlx-lm` (see [mlx-lm install guide](https://github.com/ml-explore/mlx-lm))
+  * `mlx-lm`
 
 Install all dependencies with:
 
