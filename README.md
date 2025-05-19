@@ -75,7 +75,7 @@ pip install -r requirements.txt
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/JLG1234/Final-Project.git
+   git clone https://github.com/JLG1234/NLP-Final-Project.git
    ```
 
 2. **Create VirtualEnv:**
@@ -185,6 +185,6 @@ If you use this code or report in your research, please cite:
   author={Joseph Guedalia},
   year={2025},
   note={Final Project, Baruch College, MTH 4250},
-  url={https://github.com/JLG1234/Final-Project.git}
+  url={https://github.com/JLG1234/NLP-Final-Project.git}
 }
 ```
