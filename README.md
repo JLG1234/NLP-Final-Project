@@ -91,9 +91,6 @@ pip install -r requirements.txt
    pip install -r requirements.txt
    ```
 
-4. **(Optional) Install `mlx-lm`:**
-   If not included in `requirements.txt`, follow [mlx-lm installation instructions](https://github.com/ml-explore/mlx-lm) for Apple Silicon.
-
 ---
 
 ## Downloading the Model
